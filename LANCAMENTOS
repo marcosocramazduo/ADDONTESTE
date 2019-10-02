@@ -48,3 +48,33 @@ by MEU ADDON
 <info>[COLOR green][B]by [/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR deeppink][B]utoriais[/B][/COLOR] - [COLOR lime][B]Sinopse:[/B][/COLOR]Cinebiografia do cantor e compositor Elton John, acompanhando desde quando era uma criança prodígio até se tornar um astro da música.</info>
 </item>
 <item>
+
+<item>
+<title>TITULO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<info>SINOPE</info>
+</item>
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title>TITULO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<info>SINOPE</info>
+</item>
+
+MODELO UNIVERSAL DE APENAS UM LINK
+
+<item>
+<title>it a coisa</title>
+<link>https://telona.net/wp-content/plugins/wp-rocket/assets/js/lazyload/11.0.3/lazyload.min.js</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>IMAGENS DE FUNDO</fanart>
+<info>SINOPE</info>
+</item>
